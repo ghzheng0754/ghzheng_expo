@@ -1,0 +1,31 @@
+
+{
+  "project_info": {
+    "project_number": "660574693601",
+    "firebase_url": "https://test-firebase-ai-app-88c84-default-rtdb.firebaseio.com",
+    "project_id": "test-firebase-ai-app-88c84",
+    "storage_bucket": "test-firebase-ai-app-88c84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660574693601:android:fec491cdb3dde1870dafa0",
+        "android_client_info": {
+          "package_name": "com.ghzheng.mynewproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99vC0_4WvCwX84XHYQZ5_1xFGC3e3JwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

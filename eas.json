@@ -1,0 +1,27 @@
+{
+  "cli": {
+    "version": ">= 3.0.0",
+    "appVersionSource": "remote"
+  },
+  "build": {
+    "production": {
+      "android": {
+        "buildType": "apk"
+      },
+      "ios": {
+        "distribution": "store"  // 用于发布到 App Store
+      }
+    },
+    "development": {
+      "android": {
+        "buildType": "apk"
+      },
+      "ios": {
+        "distribution": "internal"  // 用于内部测试
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}
